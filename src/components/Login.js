@@ -13,7 +13,7 @@ const Login = () => {
 
   return (
     <Container className="mt-4">
-      <h2>Login Ya</h2>
+      <h2>Login Here</h2>
       <Form onSubmit={handleLogin}>
         <Form.Group controlId="formEmail">
           <Form.Label>Email address</Form.Label>
@@ -36,7 +36,7 @@ const Login = () => {
         </Form.Group>
 
         <Button variant="primary" type="submit">
-          Login
+          Click thus for login
         </Button>
       </Form>
     </Container>
