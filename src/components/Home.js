@@ -7,7 +7,7 @@ const Home = () => {
     { id: 1, title: 'Berita Terkini 1', content: 'Isi artikel berita pertama...' },
     { id: 2, title: 'Berita Terkini 2', content: 'Isi artikel berita kedua...' },
     { id: 3, title: 'Berita Terkini 3', content: 'Isi artikel berita ketiga...' },
-    { id: 4, title: 'Berita Terkini 3', content: 'Isi artikel berita keempat...' },
+    { id: 4, title: 'Berita Terkini 4', content: 'Isi artikel berita keempat...' },
   ];
 
   return (
